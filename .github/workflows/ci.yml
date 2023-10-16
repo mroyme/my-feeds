@@ -13,7 +13,7 @@ jobs:
         poetry install --no-interaction
     - name: Run Python script
       env:
-        MINIFLUX_TOKEN: ${{secrets.MinifluxToken}}
+        MINIFLUX_TOKEN: ${{secrets.MINIFLUX_TOKEN}}
       run: poetry run --no-interaction python main.py
     - uses: EndBug/add-and-commit@v9
       with:
