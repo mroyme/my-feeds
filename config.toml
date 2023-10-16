@@ -1,0 +1,5 @@
+[miniflux]
+url = "https://read.ephemere.in"
+token = ""
+
+[git]

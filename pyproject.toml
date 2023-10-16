@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "my-feeds"
+version = "0.1.0"
+description = ""
+authors = ["Madhurjya Roy <msroy@asapp.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+toml = "^0.10.2"
+dacite = "^1.8.1"
+miniflux = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
