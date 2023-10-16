@@ -3,17 +3,17 @@ on:
   push:
     branches: [ "main" ]
 jobs:
-  ci:
+  miniflux:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Install OS dependencies
-      run: DEBIAN_FRONTEND=noninteractive sudo apt-get install -y python3 curl
     - name: Install Poetry
       run: |
         curl -sSL https://install.python-poetry.org | python3 -
         poetry install --no-interaction
     - name: Run Python script
+      env:
+        MINIFLUX_TOKEN: ${{secrets.MinifluxToken}}
       run: poetry run --no-interaction python main.py
     - uses: EndBug/add-and-commit@v9
       with:
