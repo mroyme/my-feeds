@@ -18,7 +18,7 @@ class Config:
     miniflux: MinifluxConfig
 
 
-__config: Optional[Config]
+__config: Optional[Config] = None
 
 
 def load_config():
@@ -39,6 +39,7 @@ def load():
 
 
 def config() -> Config:
+    global  __config
     if __config is None:
         load()
     return __config
