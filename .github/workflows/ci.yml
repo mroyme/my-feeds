@@ -17,5 +17,6 @@ jobs:
       run: poetry run --no-interaction python main.py
     - uses: EndBug/add-and-commit@v9
       with:
-        add: data      
+        add: data
+        default_author: user_info
   
