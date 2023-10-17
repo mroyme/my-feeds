@@ -2,7 +2,7 @@
 name = "my-feeds"
 version = "0.1.0"
 description = ""
-authors = ["Madhurjya Roy <msroy@asapp.com>"]
+authors = ["Madhurjya Roy <m@mroy.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
