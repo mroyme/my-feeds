@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 17 Oct 2023 20:43:28 UTC</dateCreated>
+        <dateCreated>Wed, 18 Oct 2023 01:00:45 UTC</dateCreated>
     </head>
     <body>
         <outline text="All">
@@ -20,6 +20,7 @@
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/"></outline>
             <outline title="DaedTech" text="DaedTech" xmlUrl="https://feeds.feedblitz.com/daedtech/www" htmlUrl="https://daedtech.com/"></outline>
             <outline title="fasterthanli.me" text="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" htmlUrl="https://fasterthanli.me"></outline>
+            <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/"></outline>
             <outline title="https://danluu.com/atom/index.xml" text="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml"></outline>
             <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca"></outline>
             <outline title="Lea Verou’s blog" text="Lea Verou’s blog" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me/"></outline>
