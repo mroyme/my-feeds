@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 23 Oct 2023 01:01:04 UTC</dateCreated>
+        <dateCreated>Tue, 24 Oct 2023 01:00:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -31,6 +31,7 @@
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/"></outline>
         </outline>
         <outline text="Tech (Organizations)">
+            <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://engineering.linecorp.com/en/feed/" htmlUrl="https://engineering.linecorp.com/en/feed/"></outline>
             <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml"></outline>
             <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0"></outline>
             <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices"></outline>
@@ -44,7 +45,6 @@
             <outline title="Grafana Labs Blog on Grafana Labs" text="Grafana Labs Blog on Grafana Labs" xmlUrl="https://grafana.com/blog/index.xml" htmlUrl="http://grafana.org/blog/index.xml"></outline>
             <outline title="HashiCorp Solutions Engineering Blog" text="HashiCorp Solutions Engineering Blog" xmlUrl="https://medium.com/feed/hashicorp-engineering" htmlUrl="https://medium.com/feed/hashicorp-engineering"></outline>
             <outline title="Increment" text="Increment" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com"></outline>
-            <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://engineering.linecorp.com/en/feed/" htmlUrl="https://engineering.linecorp.com/en/feed/"></outline>
             <outline title="LinkedIn Engineering" text="LinkedIn Engineering" xmlUrl="https://engineering.linkedin.com/blog.rss.html" htmlUrl="https://engineering.linkedin.com/blog.rss.html"></outline>
             <outline title="Lyft Engineering" text="Lyft Engineering" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/feed"></outline>
             <outline title="Medium Engineering" text="Medium Engineering" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.engineering/feed"></outline>
