@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Wed, 25 Oct 2023 01:00:14 UTC</dateCreated>
+        <dateCreated>Wed, 25 Oct 2023 13:29:54 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -13,11 +13,11 @@
             <outline title="Rock Paper Shotgun Latest Articles Feed" text="Rock Paper Shotgun Latest Articles Feed" xmlUrl="https://www.rockpapershotgun.com/feed" htmlUrl="https://www.rockpapershotgun.com/feed"></outline>
         </outline>
         <outline text="Tech (Individuals)">
-            <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/"></outline>
             <outline title="DaedTech" text="DaedTech" xmlUrl="https://feeds.feedblitz.com/daedtech/www" htmlUrl="https://daedtech.com/"></outline>
             <outline title="fasterthanli.me" text="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" htmlUrl="https://fasterthanli.me"></outline>
+            <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/"></outline>
             <outline title="https://danluu.com/atom/index.xml" text="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml"></outline>
             <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca"></outline>
             <outline title="Lea Verou’s blog" text="Lea Verou’s blog" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me/"></outline>
@@ -31,7 +31,6 @@
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/"></outline>
         </outline>
         <outline text="Tech (Organizations)">
-            <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://engineering.linecorp.com/en/feed/" htmlUrl="https://engineering.linecorp.com/en/feed/"></outline>
             <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml"></outline>
             <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0"></outline>
             <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices"></outline>
@@ -45,12 +44,14 @@
             <outline title="Grafana Labs Blog on Grafana Labs" text="Grafana Labs Blog on Grafana Labs" xmlUrl="https://grafana.com/blog/index.xml" htmlUrl="http://grafana.org/blog/index.xml"></outline>
             <outline title="HashiCorp Solutions Engineering Blog" text="HashiCorp Solutions Engineering Blog" xmlUrl="https://medium.com/feed/hashicorp-engineering" htmlUrl="https://medium.com/feed/hashicorp-engineering"></outline>
             <outline title="Increment" text="Increment" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com"></outline>
+            <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://techblog.lycorp.co.jp/en/feed/index.xml" htmlUrl="https://engineering.linecorp.com/en/feed/"></outline>
             <outline title="LinkedIn Engineering" text="LinkedIn Engineering" xmlUrl="https://engineering.linkedin.com/blog.rss.html" htmlUrl="https://engineering.linkedin.com/blog.rss.html"></outline>
             <outline title="Lyft Engineering" text="Lyft Engineering" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/feed"></outline>
             <outline title="Medium Engineering" text="Medium Engineering" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.engineering/feed"></outline>
             <outline title="Netflix TechBlog" text="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/feed"></outline>
             <outline title="NGINX" text="NGINX" xmlUrl="https://www.nginx.com/feed/rss/" htmlUrl="http://nginx.com/feed/rss"></outline>
             <outline title="Nordic APIs" text="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/feed/"></outline>
+            <outline title="Phoronix" text="Phoronix" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="https://www.phoronix.com/"></outline>
             <outline title="Prometheus Blog" text="Prometheus Blog" xmlUrl="https://prometheus.io/blog/feed.xml" htmlUrl="http://prometheus.io/blog/feed.xml"></outline>
             <outline title="Python" text="Python" xmlUrl="https://devblogs.microsoft.com/python/feed/" htmlUrl="https://devblogs.microsoft.com/python/feed/"></outline>
             <outline title="Slack Engineering" text="Slack Engineering" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/feed"></outline>
