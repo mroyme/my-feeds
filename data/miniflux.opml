@@ -2,9 +2,12 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 28 Nov 2023 01:04:23 UTC</dateCreated>
+        <dateCreated>Wed, 29 Nov 2023 01:04:21 UTC</dateCreated>
     </head>
     <body>
+        <outline text="All">
+            <outline title="fuzzy notepad" text="fuzzy notepad" xmlUrl="https://eev.ee/feeds/atom.xml" htmlUrl="https://eev.ee/"></outline>
+        </outline>
         <outline text="Comics">
             <outline title="xkcd.com" text="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"></outline>
         </outline>
