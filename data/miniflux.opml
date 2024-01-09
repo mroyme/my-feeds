@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 08 Jan 2024 01:05:04 UTC</dateCreated>
+        <dateCreated>Tue, 09 Jan 2024 01:04:57 UTC</dateCreated>
     </head>
     <body>
         <outline text="All">
@@ -36,9 +36,12 @@
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/"></outline>
         </outline>
         <outline text="Tech (Organizations)">
+            <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices"></outline>
+            <outline title="HashiCorp Solutions Engineering Blog" text="HashiCorp Solutions Engineering Blog" xmlUrl="https://medium.com/feed/hashicorp-engineering" htmlUrl="https://medium.com/feed/hashicorp-engineering"></outline>
+            <outline title="Medium Engineering" text="Medium Engineering" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.engineering/feed"></outline>
+            <outline title="strava-engineering" text="strava-engineering" xmlUrl="https://medium.com/feed/strava-engineering" htmlUrl="https://medium.com/feed/strava-engineering"></outline>
             <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml"></outline>
             <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0"></outline>
-            <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices"></outline>
             <outline title="Confluent: Data in motion" text="Confluent: Data in motion" xmlUrl="https://www.confluent.io/rss.xml" htmlUrl="https://www.confluent.io/rss.xml"></outline>
             <outline title="CSS-Tricks" text="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com"></outline>
             <outline title="deliveroo.engineering" text="deliveroo.engineering" xmlUrl="https://deliveroo.engineering/feed.xml" htmlUrl="http://deliveroo.engineering/feed.xml"></outline>
@@ -47,12 +50,10 @@
             <outline title="Fluentd Blog" text="Fluentd Blog" xmlUrl="https://www.fluentd.org/blog/feed.rss" htmlUrl="http://www.fluentd.org/blog/feed.rss"></outline>
             <outline title="Grab Tech" text="Grab Tech" xmlUrl="https://engineering.grab.com/feed.xml" htmlUrl="http://engineering.grab.com/feed.xml"></outline>
             <outline title="Grafana Labs Blog on Grafana Labs" text="Grafana Labs Blog on Grafana Labs" xmlUrl="https://grafana.com/blog/index.xml" htmlUrl="http://grafana.org/blog/index.xml"></outline>
-            <outline title="HashiCorp Solutions Engineering Blog" text="HashiCorp Solutions Engineering Blog" xmlUrl="https://medium.com/feed/hashicorp-engineering" htmlUrl="https://medium.com/feed/hashicorp-engineering"></outline>
             <outline title="Increment" text="Increment" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com"></outline>
             <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://techblog.lycorp.co.jp/en/feed/index.xml" htmlUrl="https://engineering.linecorp.com/en/feed/"></outline>
             <outline title="LinkedIn Engineering" text="LinkedIn Engineering" xmlUrl="https://engineering.linkedin.com/blog.rss.html" htmlUrl="https://engineering.linkedin.com/blog.rss.html"></outline>
             <outline title="Lyft Engineering" text="Lyft Engineering" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/feed"></outline>
-            <outline title="Medium Engineering" text="Medium Engineering" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.engineering/feed"></outline>
             <outline title="Netflix TechBlog" text="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/feed"></outline>
             <outline title="NGINX" text="NGINX" xmlUrl="https://www.nginx.com/feed/rss/" htmlUrl="http://nginx.com/feed/rss"></outline>
             <outline title="Nordic APIs" text="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/feed/"></outline>
@@ -62,7 +63,6 @@
             <outline title="Slack Engineering" text="Slack Engineering" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/feed"></outline>
             <outline title="Spotify Engineering" text="Spotify Engineering" xmlUrl="https://engineering.atspotify.com/feed/" htmlUrl="https://engineering.atspotify.com/feed/"></outline>
             <outline title="Stack Overflow Blog" text="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="https://stackoverflow.blog/feed/"></outline>
-            <outline title="strava-engineering" text="strava-engineering" xmlUrl="https://medium.com/feed/strava-engineering" htmlUrl="https://medium.com/feed/strava-engineering"></outline>
             <outline title="The GitHub Blog: Engineering News and Updates" text="The GitHub Blog: Engineering News and Updates" xmlUrl="https://github.blog/engineering.atom" htmlUrl="http://githubengineering.com/atom.xml"></outline>
             <outline title="Timescale Blog" text="Timescale Blog" xmlUrl="https://www.timescale.com/blog/rss/" htmlUrl="https://blog.timescale.com/feed"></outline>
             <outline title="Twilio Blog" text="Twilio Blog" xmlUrl="https://www.twilio.com/blog/feed" htmlUrl="http://www.twilio.com/blog/feed"></outline>
