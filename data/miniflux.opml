@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 30 Jan 2024 00:59:58 UTC</dateCreated>
+        <dateCreated>Wed, 31 Jan 2024 01:00:23 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -28,6 +28,7 @@
             <outline title="ploeh blog" text="ploeh blog" xmlUrl="https://blog.ploeh.dk/atom.xml" htmlUrl="https://blog.ploeh.dk"></outline>
             <outline title="rakyll.org" text="rakyll.org" xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/"></outline>
             <outline title="Sacha Chua" text="Sacha Chua" xmlUrl="https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/"></outline>
+            <outline title="Scott Hanselman&#39;s Blog" text="Scott Hanselman&#39;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"></outline>
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/"></outline>
         </outline>
         <outline text="Tech (Organizations)">
