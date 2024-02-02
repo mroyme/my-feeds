@@ -2,16 +2,16 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 01 Feb 2024 01:03:26 UTC</dateCreated>
+        <dateCreated>Fri, 02 Feb 2024 01:00:08 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
             <outline title="xkcd.com" text="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"></outline>
         </outline>
         <outline text="Gaming">
+            <outline title="Gamestudies.org" text="Gamestudies.org" xmlUrl="https://gamestudies.org/rss.php" htmlUrl="https://gamestudies.org"></outline>
             <outline title="fuzzy notepad" text="fuzzy notepad" xmlUrl="https://eev.ee/feeds/atom.xml" htmlUrl="https://eev.ee/"></outline>
             <outline title="Gamedev.in" text="Gamedev.in" xmlUrl="https://www.gamedev.in/feed" htmlUrl="https://www.gamedev.in"></outline>
-            <outline title="Gamestudies.org" text="Gamestudies.org" xmlUrl="https://gamestudies.org/rss.php" htmlUrl="https://gamestudies.org"></outline>
         </outline>
         <outline text="Tech (Individuals)">
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml"></outline>
