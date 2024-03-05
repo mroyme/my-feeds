@@ -6,7 +6,7 @@ authors = ["Madhurjya Roy <m@mroy.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3"
+python = ">=3.7,<4"
 toml = "^0.10.2"
 dacite = "^1.8.1"
 miniflux = "^1.0.0"
