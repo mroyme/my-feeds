@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 28 May 2024 01:05:20 UTC</dateCreated>
+        <dateCreated>Wed, 29 May 2024 01:08:43 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -36,6 +36,7 @@
         </outline>
         <outline text="Tech (Organizations)">
             <outline title="NGINX" text="NGINX" xmlUrl="https://www.nginx.com/feed/rss/" htmlUrl="http://nginx.com/feed/rss" type="rss"></outline>
+            <outline title="Zalando Engineering Blog" text="Zalando Engineering Blog" xmlUrl="https://engineering.zalando.com/atom.xml" htmlUrl="https://engineering.zalando.com/atom.xml" type="rss"></outline>
             <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml" type="rss"></outline>
             <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0" type="rss"></outline>
             <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices" type="rss"></outline>
@@ -60,7 +61,6 @@
             <outline title="The Old New Thing" text="The Old New Thing" xmlUrl="https://devblogs.microsoft.com/oldnewthing/feed" htmlUrl="https://devblogs.microsoft.com/oldnewthing" type="rss"></outline>
             <outline title="Timescale Blog" text="Timescale Blog" xmlUrl="https://www.timescale.com/blog/rss/" htmlUrl="https://blog.timescale.com/feed" type="rss"></outline>
             <outline title="Yelp Engineering and Product Blog" text="Yelp Engineering and Product Blog" xmlUrl="https://engineeringblog.yelp.com/feed.xml" htmlUrl="http://engineeringblog.yelp.com/feed.xml" type="rss"></outline>
-            <outline title="Zalando Engineering Blog" text="Zalando Engineering Blog" xmlUrl="https://engineering.zalando.com/atom.xml" htmlUrl="https://engineering.zalando.com/atom.xml" type="rss"></outline>
         </outline>
     </body>
 </opml>
