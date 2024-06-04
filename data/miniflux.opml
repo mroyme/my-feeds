@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 03 Jun 2024 01:07:23 UTC</dateCreated>
+        <dateCreated>Tue, 04 Jun 2024 01:06:39 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -35,9 +35,9 @@
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/" type="rss"></outline>
         </outline>
         <outline text="Tech (Organizations)">
+            <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml" type="rss"></outline>
             <outline title="NGINX" text="NGINX" xmlUrl="https://www.nginx.com/feed/rss/" htmlUrl="http://nginx.com/feed/rss" type="rss"></outline>
             <outline title="Zalando Engineering Blog" text="Zalando Engineering Blog" xmlUrl="https://engineering.zalando.com/atom.xml" htmlUrl="https://engineering.zalando.com/atom.xml" type="rss"></outline>
-            <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml" type="rss"></outline>
             <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0" type="rss"></outline>
             <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices" type="rss"></outline>
             <outline title="Confluent: Data in motion" text="Confluent: Data in motion" xmlUrl="https://www.confluent.io/rss.xml" htmlUrl="https://www.confluent.io/rss.xml" type="rss"></outline>
