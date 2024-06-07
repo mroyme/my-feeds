@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Thu, 06 Jun 2024 01:06:08 UTC</dateCreated>
+        <dateCreated>Fri, 07 Jun 2024 01:08:50 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -15,12 +15,12 @@
         </outline>
         <outline text="Tech (Individuals)">
             <outline title="Drew DeVault&#39;s blog" text="Drew DeVault&#39;s blog" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com" type="rss"></outline>
+            <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
             <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
             <outline title="DaedTech" text="DaedTech" xmlUrl="https://feeds.feedblitz.com/daedtech/www" htmlUrl="https://daedtech.com/" type="rss"></outline>
             <outline title="fasterthanli.me" text="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" htmlUrl="https://fasterthanli.me" type="rss"></outline>
-            <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
             <outline title="https://danluu.com/atom/index.xml" text="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml" type="rss"></outline>
             <outline title="Jake Archibald&#39;s blog" text="Jake Archibald&#39;s blog" xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com/" type="rss"></outline>
             <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
