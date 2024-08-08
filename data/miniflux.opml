@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Wed, 07 Aug 2024 01:11:24 UTC</dateCreated>
+        <dateCreated>Thu, 08 Aug 2024 01:11:06 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -14,6 +14,7 @@
             <outline title="Gamestudies.org" text="Gamestudies.org" xmlUrl="https://gamestudies.org/rss.php" htmlUrl="https://gamestudies.org" type="rss"></outline>
         </outline>
         <outline text="Tech (Individuals)">
+            <outline title="ploeh blog" text="ploeh blog" xmlUrl="https://blog.ploeh.dk/atom.xml" htmlUrl="https://blog.ploeh.dk" type="rss"></outline>
             <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
@@ -29,7 +30,6 @@
             <outline title="Leonora Tindall on Nora Codes" text="Leonora Tindall on Nora Codes" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/index.xml" type="rss"></outline>
             <outline title="null program" text="null program" xmlUrl="https://nullprogram.com/feed/" htmlUrl="https://nullprogram.com" type="rss"></outline>
             <outline title="Peter Norvig" text="Peter Norvig" xmlUrl="https://norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com" type="rss"></outline>
-            <outline title="ploeh blog" text="ploeh blog" xmlUrl="https://blog.ploeh.dk/atom.xml" htmlUrl="https://blog.ploeh.dk" type="rss"></outline>
             <outline title="rakyll.org" text="rakyll.org" xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/" type="rss"></outline>
             <outline title="Sacha Chua" text="Sacha Chua" xmlUrl="https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/" type="rss"></outline>
             <outline title="Scott Hanselman&#39;s Blog" text="Scott Hanselman&#39;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/" type="rss"></outline>
