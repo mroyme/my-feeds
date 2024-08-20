@@ -7,7 +7,6 @@ client = miniflux.Client(config.miniflux.url, api_key=config.miniflux.token)
 
 
 def miniflux_backup():
-    print(config.miniflux.token)
     opml = client.export_feeds()
     with open("data/miniflux.opml", "w") as f:
         f.write(opml)
