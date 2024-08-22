@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Wed, 21 Aug 2024 01:10:58 UTC</dateCreated>
+        <dateCreated>Thu, 22 Aug 2024 01:12:45 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -20,6 +20,7 @@
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
             <outline title="Computer, Enhance!" text="Computer, Enhance!" xmlUrl="https://www.computerenhance.com/feed" htmlUrl="https://www.computerenhance.com" type="rss"></outline>
             <outline title="DaedTech" text="DaedTech" xmlUrl="https://feeds.feedblitz.com/daedtech/www" htmlUrl="https://daedtech.com/" type="rss"></outline>
+            <outline title="daniel.haxx.se" text="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
             <outline title="Drew DeVault&#39;s blog" text="Drew DeVault&#39;s blog" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com" type="rss"></outline>
             <outline title="fasterthanli.me" text="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" htmlUrl="https://fasterthanli.me" type="rss"></outline>
             <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
