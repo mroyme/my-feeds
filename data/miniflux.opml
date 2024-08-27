@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 26 Aug 2024 01:12:29 UTC</dateCreated>
+        <dateCreated>Tue, 27 Aug 2024 01:13:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -37,7 +37,6 @@
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/" type="rss"></outline>
         </outline>
         <outline text="Tech (Organizations)">
-            <outline title="Netflix TechBlog" text="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/feed" type="rss"></outline>
             <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml" type="rss"></outline>
             <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0" type="rss"></outline>
             <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices" type="rss"></outline>
@@ -50,6 +49,7 @@
             <outline title="Increment" text="Increment" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com" type="rss"></outline>
             <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://techblog.lycorp.co.jp/en/feed/index.xml" htmlUrl="https://engineering.linecorp.com/en/feed/" type="rss"></outline>
             <outline title="LWN.net" text="LWN.net" xmlUrl="https://lwn.net/headlines/rss" htmlUrl="https://lwn.net" type="rss"></outline>
+            <outline title="Netflix TechBlog" text="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/feed" type="rss"></outline>
             <outline title="Nordic APIs" text="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/feed/" type="rss"></outline>
             <outline title="Prometheus Blog" text="Prometheus Blog" xmlUrl="https://prometheus.io/blog/feed.xml" htmlUrl="http://prometheus.io/blog/feed.xml" type="rss"></outline>
             <outline title="Python" text="Python" xmlUrl="https://devblogs.microsoft.com/python/feed/" htmlUrl="https://devblogs.microsoft.com/python/feed/" type="rss"></outline>
