@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 19 Nov 2024 01:23:38 UTC</dateCreated>
+        <dateCreated>Wed, 20 Nov 2024 01:22:39 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -13,7 +13,6 @@
             <outline title="Gamestudies.org" text="Gamestudies.org" xmlUrl="https://gamestudies.org/rss.php" htmlUrl="https://gamestudies.org" type="rss"></outline>
         </outline>
         <outline text="Tech (Individuals)">
-            <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
             <outline title="ploeh blog" text="ploeh blog" xmlUrl="https://blog.ploeh.dk/atom.xml" htmlUrl="https://blog.ploeh.dk" type="rss"></outline>
             <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
@@ -27,6 +26,7 @@
             <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
             <outline title="https://danluu.com/atom/index.xml" text="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml" type="rss"></outline>
             <outline title="Jake Archibald&#39;s blog" text="Jake Archibald&#39;s blog" xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com/" type="rss"></outline>
+            <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
             <outline title="Lea Verou’s blog" text="Lea Verou’s blog" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me/" type="rss"></outline>
             <outline title="Leonora Tindall on Nora Codes" text="Leonora Tindall on Nora Codes" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/index.xml" type="rss"></outline>
             <outline title="Loris Cro&#39;s Personal Website" text="Loris Cro&#39;s Personal Website" xmlUrl="https://kristoff.it/index.xml" htmlUrl="https://kristoff.it/" type="rss"></outline>
