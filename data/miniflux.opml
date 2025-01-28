@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 27 Jan 2025 01:18:54 UTC</dateCreated>
+        <dateCreated>Tue, 28 Jan 2025 01:17:45 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -15,6 +15,7 @@
         <outline text="Tech (Individuals)">
             <outline title="Drew DeVault&#39;s blog" text="Drew DeVault&#39;s blog" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com" type="rss"></outline>
             <outline title="ploeh blog" text="ploeh blog" xmlUrl="https://blog.ploeh.dk/atom.xml" htmlUrl="https://blog.ploeh.dk" type="rss"></outline>
+            <outline title="Sacha Chua" text="Sacha Chua" xmlUrl="https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/" type="rss"></outline>
             <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
             <outline title="Arthur O’Dwyer" text="Arthur O’Dwyer" xmlUrl="https://quuxplusone.github.io/blog/feed.xml" htmlUrl="https://quuxplusone.github.io/blog/" type="rss"></outline>
@@ -34,7 +35,6 @@
             <outline title="Peter Norvig" text="Peter Norvig" xmlUrl="https://norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com" type="rss"></outline>
             <outline title="rakyll.org" text="rakyll.org" xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/" type="rss"></outline>
             <outline title="Register Spill" text="Register Spill" xmlUrl="https://registerspill.thorstenball.com/feed" htmlUrl="https://registerspill.thorstenball.com" type="rss"></outline>
-            <outline title="Sacha Chua" text="Sacha Chua" xmlUrl="https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/" type="rss"></outline>
             <outline title="Scott Hanselman&#39;s Blog" text="Scott Hanselman&#39;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/" type="rss"></outline>
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/" type="rss"></outline>
         </outline>
