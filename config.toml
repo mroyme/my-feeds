@@ -1,5 +1,5 @@
 [miniflux]
-url = "https://read.ephemere.in"
+url = "https://miniflux.mroy.dev"
 token = ""
 
 [git]
