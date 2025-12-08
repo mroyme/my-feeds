@@ -2,68 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Tue, 18 Mar 2025 01:23:49 UTC</dateCreated>
+        <dateCreated>Mon, 08 Dec 2025 21:56:12 UTC</dateCreated>
     </head>
-    <body>
-        <outline text="Comics">
-            <outline title="xkcd.com" text="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/" type="rss"></outline>
-        </outline>
-        <outline text="Gaming">
-            <outline title="fuzzy notepad" text="fuzzy notepad" xmlUrl="https://eev.ee/feeds/atom.xml" htmlUrl="https://eev.ee/" type="rss"></outline>
-            <outline title="Gamestudies.org" text="Gamestudies.org" xmlUrl="https://gamestudies.org/rss.php" htmlUrl="https://gamestudies.org" type="rss"></outline>
-        </outline>
-        <outline text="Tech (Individuals)">
-            <outline title="ploeh blog" text="ploeh blog" xmlUrl="https://blog.ploeh.dk/atom.xml" htmlUrl="https://blog.ploeh.dk" type="rss"></outline>
-            <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
-            <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
-            <outline title="Arthur O’Dwyer" text="Arthur O’Dwyer" xmlUrl="https://quuxplusone.github.io/blog/feed.xml" htmlUrl="https://quuxplusone.github.io/blog/" type="rss"></outline>
-            <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
-            <outline title="Computer, Enhance!" text="Computer, Enhance!" xmlUrl="https://www.computerenhance.com/feed" htmlUrl="https://www.computerenhance.com" type="rss"></outline>
-            <outline title="DaedTech" text="DaedTech" xmlUrl="https://feeds.feedblitz.com/daedtech/www" htmlUrl="https://daedtech.com/" type="rss"></outline>
-            <outline title="daniel.haxx.se" text="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
-            <outline title="Drew DeVault&#39;s blog" text="Drew DeVault&#39;s blog" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com" type="rss"></outline>
-            <outline title="fasterthanli.me" text="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" htmlUrl="https://fasterthanli.me" type="rss"></outline>
-            <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
-            <outline title="https://danluu.com/atom/index.xml" text="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml" type="rss"></outline>
-            <outline title="Jake Archibald&#39;s blog" text="Jake Archibald&#39;s blog" xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com/" type="rss"></outline>
-            <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
-            <outline title="Lea Verou’s blog" text="Lea Verou’s blog" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me/" type="rss"></outline>
-            <outline title="Leonora Tindall on Nora Codes" text="Leonora Tindall on Nora Codes" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/index.xml" type="rss"></outline>
-            <outline title="Loris Cro&#39;s Personal Website" text="Loris Cro&#39;s Personal Website" xmlUrl="https://kristoff.it/index.xml" htmlUrl="https://kristoff.it/" type="rss"></outline>
-            <outline title="null program" text="null program" xmlUrl="https://nullprogram.com/feed/" htmlUrl="https://nullprogram.com" type="rss"></outline>
-            <outline title="Peter Norvig" text="Peter Norvig" xmlUrl="https://norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com" type="rss"></outline>
-            <outline title="rakyll.org" text="rakyll.org" xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/" type="rss"></outline>
-            <outline title="Register Spill" text="Register Spill" xmlUrl="https://registerspill.thorstenball.com/feed" htmlUrl="https://registerspill.thorstenball.com" type="rss"></outline>
-            <outline title="Sacha Chua" text="Sacha Chua" xmlUrl="https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/" type="rss"></outline>
-            <outline title="Scott Hanselman&#39;s Blog" text="Scott Hanselman&#39;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/" type="rss"></outline>
-            <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/" type="rss"></outline>
-        </outline>
-        <outline text="Tech (Organizations)">
-            <outline title="Atlassian Developer Blog" text="Atlassian Developer Blog" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://developer.atlassian.com/blog/feed.xml" type="rss"></outline>
-            <outline title="Auth0 Blog" text="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="http://feeds.feedburner.com/auth0" type="rss"></outline>
-            <outline title="Better Practices" text="Better Practices" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/feed/better-practices" type="rss"></outline>
-            <outline title="Confluent: Data in motion" text="Confluent: Data in motion" xmlUrl="https://www.confluent.io/rss.xml" htmlUrl="https://www.confluent.io/rss.xml" type="rss"></outline>
-            <outline title="CSS-Tricks" text="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com" type="rss"></outline>
-            <outline title="deliveroo.engineering" text="deliveroo.engineering" xmlUrl="https://deliveroo.engineering/feed.xml" htmlUrl="http://deliveroo.engineering/feed.xml" type="rss"></outline>
-            <outline title="Engineering at Meta" text="Engineering at Meta" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/feed/" type="rss"></outline>
-            <outline title="Grab Tech" text="Grab Tech" xmlUrl="https://engineering.grab.com/feed.xml" htmlUrl="http://engineering.grab.com/feed.xml" type="rss"></outline>
-            <outline title="Grafana Labs Blog on Grafana Labs" text="Grafana Labs Blog on Grafana Labs" xmlUrl="https://grafana.com/blog/index.xml" htmlUrl="http://grafana.org/blog/index.xml" type="rss"></outline>
-            <outline title="Increment" text="Increment" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com" type="rss"></outline>
-            <outline title="LINE ENGINEERING Feed en" text="LINE ENGINEERING Feed en" xmlUrl="https://techblog.lycorp.co.jp/en/feed/index.xml" htmlUrl="https://engineering.linecorp.com/en/feed/" type="rss"></outline>
-            <outline title="LWN.net" text="LWN.net" xmlUrl="https://lwn.net/headlines/rss" htmlUrl="https://lwn.net" type="rss"></outline>
-            <outline title="Netflix TechBlog" text="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/feed" type="rss"></outline>
-            <outline title="Nordic APIs" text="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/feed/" type="rss"></outline>
-            <outline title="Prometheus Blog" text="Prometheus Blog" xmlUrl="https://prometheus.io/blog/feed.xml" htmlUrl="http://prometheus.io/blog/feed.xml" type="rss"></outline>
-            <outline title="Python" text="Python" xmlUrl="https://devblogs.microsoft.com/python/feed/" htmlUrl="https://devblogs.microsoft.com/python/feed/" type="rss"></outline>
-            <outline title="Slack Engineering" text="Slack Engineering" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/feed" type="rss"></outline>
-            <outline title="Spotify Engineering" text="Spotify Engineering" xmlUrl="https://engineering.atspotify.com/feed/" htmlUrl="https://engineering.atspotify.com/feed/" type="rss"></outline>
-            <outline title="Stack Overflow Blog" text="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="https://stackoverflow.blog/feed/" type="rss"></outline>
-            <outline title="The GitHub Blog: Engineering News and Updates" text="The GitHub Blog: Engineering News and Updates" xmlUrl="https://github.blog/engineering.atom" htmlUrl="http://githubengineering.com/atom.xml" type="rss"></outline>
-            <outline title="The Go Blog" text="The Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/feed.atom" type="rss"></outline>
-            <outline title="The Old New Thing" text="The Old New Thing" xmlUrl="https://devblogs.microsoft.com/oldnewthing/feed" htmlUrl="https://devblogs.microsoft.com/oldnewthing" type="rss"></outline>
-            <outline title="Timescale Blog" text="Timescale Blog" xmlUrl="https://www.timescale.com/blog/rss/" htmlUrl="https://blog.timescale.com/feed" type="rss"></outline>
-            <outline title="Yelp Engineering and Product Blog" text="Yelp Engineering and Product Blog" xmlUrl="https://engineeringblog.yelp.com/feed.xml" htmlUrl="http://engineeringblog.yelp.com/feed.xml" type="rss"></outline>
-            <outline title="Zalando Engineering Blog" text="Zalando Engineering Blog" xmlUrl="https://engineering.zalando.com/atom.xml" htmlUrl="https://engineering.zalando.com/atom.xml" type="rss"></outline>
-        </outline>
-    </body>
+    <body></body>
 </opml>
