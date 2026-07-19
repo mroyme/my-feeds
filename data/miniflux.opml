@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:miniflux="https://miniflux.app/opml">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sat, 18 Jul 2026 01:29:57 UTC</dateCreated>
+        <dateCreated>Sun, 19 Jul 2026 01:47:07 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -13,13 +13,13 @@
             <outline title="Gamestudies.org" text="Gamestudies.org" xmlUrl="https://gamestudies.org/rss.php" htmlUrl="https://gamestudies.org" type="rss"></outline>
         </outline>
         <outline text="Tech (Individuals)">
+            <outline title="daniel.haxx.se" text="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
             <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
             <outline title="Arthur O’Dwyer" text="Arthur O’Dwyer" xmlUrl="https://quuxplusone.github.io/blog/feed.xml" htmlUrl="https://quuxplusone.github.io/blog/" type="rss"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
             <outline title="Computer, Enhance!" text="Computer, Enhance!" xmlUrl="https://www.computerenhance.com/feed" htmlUrl="https://www.computerenhance.com" type="rss"></outline>
             <outline title="DaedTech" text="DaedTech" xmlUrl="https://daedtech.com/feed" htmlUrl="https://daedtech.com/" type="rss"></outline>
-            <outline title="daniel.haxx.se" text="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
             <outline title="Drew DeVault&#39;s blog" text="Drew DeVault&#39;s blog" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com" type="rss"></outline>
             <outline title="fasterthanli.me" text="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" htmlUrl="https://fasterthanli.me" type="rss"></outline>
             <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
