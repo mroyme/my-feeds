@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:miniflux="https://miniflux.app/opml">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Mon, 03 Aug 2026 01:54:04 UTC</dateCreated>
+        <dateCreated>Tue, 04 Aug 2026 01:29:15 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -15,6 +15,7 @@
         <outline text="Tech (Individuals)">
             <outline title="Adrian Roselli" text="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com" type="rss"></outline>
             <outline title="daniel.haxx.se" text="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
+            <outline title="Madhurjya Roy" text="Madhurjya Roy" xmlUrl="https://www.mroy.me/rss" htmlUrl="https://www.mroy.me" description="Writing by Madhurjya Roy" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
             <outline title="Arthur O’Dwyer" text="Arthur O’Dwyer" xmlUrl="https://quuxplusone.github.io/blog/feed.xml" htmlUrl="https://quuxplusone.github.io/blog/" type="rss"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
@@ -30,7 +31,6 @@
             <outline title="Lea Verou’s blog" text="Lea Verou’s blog" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me/" type="rss"></outline>
             <outline title="Leonora Tindall on Nora Codes" text="Leonora Tindall on Nora Codes" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/index.xml" type="rss"></outline>
             <outline title="Loris Cro&#39;s Personal Website" text="Loris Cro&#39;s Personal Website" xmlUrl="https://kristoff.it/index.xml" htmlUrl="https://kristoff.it/" type="rss"></outline>
-            <outline title="Madhurjya Roy" text="Madhurjya Roy" xmlUrl="https://www.mroy.me/rss" htmlUrl="https://www.mroy.me" description="Writing by Madhurjya Roy" type="rss"></outline>
             <outline title="Martin Fowler" text="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com" description="Master feed of news and updates from martinfowler.com" type="rss"></outline>
             <outline title="Mitchell Hashimoto" text="Mitchell Hashimoto" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com/writing" description="Mitchell Hashimoto&#39;s personal website." type="rss"></outline>
             <outline title="null program" text="null program" xmlUrl="https://nullprogram.com/feed/" htmlUrl="https://nullprogram.com" type="rss"></outline>
