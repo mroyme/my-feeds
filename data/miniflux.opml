@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:miniflux="https://miniflux.app/opml">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sat, 05 Sep 2026 00:10:48 UTC</dateCreated>
+        <dateCreated>Sun, 06 Sep 2026 00:12:16 UTC</dateCreated>
     </head>
     <body>
         <outline text="Comics">
@@ -17,6 +17,8 @@
             <outline title="daniel.haxx.se" text="daniel.haxx.se" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" type="rss"></outline>
             <outline title="Fourmilog:  None Dare Call It Reason" text="Fourmilog:  None Dare Call It Reason" xmlUrl="https://www.fourmilab.ch/fourmilog/atom_10.xml" htmlUrl="http://www.fourmilab.ch/fourmilog/" type="rss"></outline>
             <outline title="Madhurjya Roy" text="Madhurjya Roy" xmlUrl="https://www.mroy.me/rss" htmlUrl="https://www.mroy.me" description="Writing by Madhurjya Roy" type="rss"></outline>
+            <outline title="Scott Hanselman&#39;s Blog" text="Scott Hanselman&#39;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/" type="rss"></outline>
+            <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
             <outline title="Andrew Kelley" text="Andrew Kelley" xmlUrl="https://andrewkelley.me/rss.xml" htmlUrl="http://andrewkelley.me/rss.xml" type="rss"></outline>
             <outline title="Arthur O’Dwyer" text="Arthur O’Dwyer" xmlUrl="https://quuxplusone.github.io/blog/feed.xml" htmlUrl="https://quuxplusone.github.io/blog/" type="rss"></outline>
             <outline title="Coding Horror" text="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/" htmlUrl="https://blog.codinghorror.com/" type="rss"></outline>
@@ -27,7 +29,6 @@
             <outline title="Ham Vocke - Tech Feed" text="Ham Vocke - Tech Feed" xmlUrl="https://hamvocke.com/feed-tech.xml" htmlUrl="https://hamvocke.com/" description="Software engineering, leadership, and technology" type="rss"></outline>
             <outline title="https://danluu.com/atom/index.xml" text="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml" type="rss"></outline>
             <outline title="Jake Archibald&#39;s blog" text="Jake Archibald&#39;s blog" xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com/" type="rss"></outline>
-            <outline title="Julia Evans" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" type="rss"></outline>
             <outline title="Lea Verou’s blog" text="Lea Verou’s blog" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me/" type="rss"></outline>
             <outline title="Leonora Tindall on Nora Codes" text="Leonora Tindall on Nora Codes" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/index.xml" type="rss"></outline>
             <outline title="Loris Cro&#39;s Personal Website" text="Loris Cro&#39;s Personal Website" xmlUrl="https://kristoff.it/index.xml" htmlUrl="https://kristoff.it/" type="rss"></outline>
@@ -41,7 +42,6 @@
             <outline title="rakyll.org" text="rakyll.org" xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/" type="rss"></outline>
             <outline title="Register Spill" text="Register Spill" xmlUrl="https://registerspill.thorstenball.com/feed" htmlUrl="https://registerspill.thorstenball.com" type="rss"></outline>
             <outline title="Sacha Chua" text="Sacha Chua" xmlUrl="https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/" type="rss"></outline>
-            <outline title="Scott Hanselman&#39;s Blog" text="Scott Hanselman&#39;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/" type="rss"></outline>
             <outline title="The Pragmatic Engineer" text="The Pragmatic Engineer" xmlUrl="https://feeds.feedburner.com/ThePragmaticEngineer" htmlUrl="https://blog.pragmaticengineer.com/" type="rss"></outline>
             <outline title="マリウス" text="マリウス" xmlUrl="https://xn--gckvb8fzb.com/index.xml" htmlUrl="https://xn--gckvb8fzb.com/" description="The Journal of マリウス" type="rss"></outline>
         </outline>
